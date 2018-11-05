@@ -1,7 +1,7 @@
 # DoctorVirtualQueue-Hack-A-Roo-2018
 App Use: This JAVA Application works as a Online Virtual Queue to join a Queue which will book appointments to a Doctor.
 
-Global URL is setup using ngrok at: http://1aadd00e.ngrok.io/TeamAlpha/doctorQueueHome
+Global URL is setup using ngrok at: https://1aadd00e.ngrok.io/TeamAlpha/doctorQueueHome
 
 Desciption: When a User tries to Login, it will send a Verification code to the user to log him/her successfully into Application.
 We used Oracle Database for storing all the data. On First time Login, User will start recieving alerts about his Queue requests.
