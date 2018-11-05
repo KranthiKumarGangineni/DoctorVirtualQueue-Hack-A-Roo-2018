@@ -1,5 +1,5 @@
 # DoctorVirtualQueue-Hack-A-Roo-2018
-App Use: This JAVA Application works as a Online Virtual Queue to join a Queue which will book appointments to a Doctor.
+App Use: This is a JAVA Application which works as a Online Virtual Queue to join a exisitng Queue for Doctor Appointment.
 
 Global URL is setup using ngrok at: https://1aadd00e.ngrok.io/TeamAlpha/doctorQueueHome
 
